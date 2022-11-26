@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/startreact/static/css/main.325bd21e.css",
+    "main.js": "/startreact/static/js/main.9db71939.js",
+    "static/media/fa-solid-900.ttf": "/startreact/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/startreact/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/startreact/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/Erorr.jpg": "/startreact/static/media/Erorr.2f11a6190f074b3167c2.jpg",
+    "static/media/fa-brands-400.woff2": "/startreact/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/startreact/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/img5.png": "/startreact/static/media/img5.4417330275f78faa31c3.png",
+    "static/media/img3.png": "/startreact/static/media/img3.494a4a914b5471b41f3e.png",
+    "static/media/img4.png": "/startreact/static/media/img4.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/startreact/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/img2.png": "/startreact/static/media/img2.48c9704ca7f8ce901038.png",
+    "static/media/img1.png": "/startreact/static/media/img1.01792c0bdc342bf4bf9c.png",
+    "static/media/img6.png": "/startreact/static/media/img6.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/startreact/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/startreact/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/startreact/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/startreact/index.html",
+    "main.325bd21e.css.map": "/startreact/static/css/main.325bd21e.css.map",
+    "main.9db71939.js.map": "/startreact/static/js/main.9db71939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.325bd21e.css",
+    "static/js/main.9db71939.js"
+  ]
+}
